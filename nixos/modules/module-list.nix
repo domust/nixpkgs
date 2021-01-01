@@ -662,6 +662,7 @@
   ./services/networking/nix-serve.nix
   ./services/networking/nixops-dns.nix
   ./services/networking/nntp-proxy.nix
+  ./services/networking/nordvpn.nix
   ./services/networking/nsd.nix
   ./services/networking/ntopng.nix
   ./services/networking/ntp/chrony.nix

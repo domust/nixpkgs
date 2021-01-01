@@ -15495,6 +15495,8 @@ in
 
   mullvad-vpn = callPackage ../applications/networking/mullvad-vpn { };
 
+  nordvpn = callPackage ../applications/networking/nordvpn { };
+
   mumsi = callPackage ../servers/mumsi { };
 
   myserver = callPackage ../servers/http/myserver { };
